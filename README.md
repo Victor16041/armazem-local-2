@@ -1,2 +1,2 @@
-# armazem-local-2
-coiso aleatorio 2
+# Armaz-m-Local
+coiso aleatorio
